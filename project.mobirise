@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-24_0043",
+    "name": "Gidzap invest",
     "currentPage": "index.html",
     "theme": {
       "name": "carm4",
@@ -44,11 +44,13 @@
     "chatbutton": {},
     "usedWebp": true,
     "favicon": false,
-    "mbrsiteDomain": "zigldr2o4m",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "mbrsiteDomain": "qnf5ldo9hf",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://invest.gidzap.ru",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "site_lang": "ru",
     "cookiesAlert": false,
     "gdpr": false
   },
